@@ -1,7 +1,6 @@
-# Build output
-bin/
-
-# OS junk files
 .DS_Store
 [Tt]humbs.db
+
+# Build output
+bin/
 
